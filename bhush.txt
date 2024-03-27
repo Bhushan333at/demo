@@ -1,2 +1,5 @@
 hey ! we create a file to clone and update !!!
+<<<<<<< HEAD
 here we update this file later for push !!
+=======
+>>>>>>> 9ba7bd054db18d5657237cd8173dc3bccd0169b9
