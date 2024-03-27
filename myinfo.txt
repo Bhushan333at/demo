@@ -24,3 +24,4 @@ print(labels)
 
 plt.scatter(x, y, c=labels)
 plt.show()
+this changes happen by me after pilling the code
